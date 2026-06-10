@@ -461,6 +461,7 @@ s=''
 l=1
 
 for i in range(len(a)):
+    print('i')
     if a[i]=='a':
         s=s+str(l)
         l=l+1
