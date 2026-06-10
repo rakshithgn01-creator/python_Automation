@@ -1,0 +1,32 @@
+[
+    {
+        "empno":1,
+        "ename":"rakshi",
+        "deptno":"HR",
+        "salary":1000
+    },
+    {
+        "empno":2,
+        "ename":"keshav",
+        "deptno":"IT",
+        "salary":2000
+    },
+    {
+        "empno":3,
+        "ename":"shiva",
+        "deptno":"Chemist",
+        "salary":3000
+    },
+    {
+        "empno":4,
+        "ename":"adarsh",
+        "deptno":"Pysics",
+        "salary":4000
+    },
+    {
+        "empno":5,
+        "ename":"keerthi",
+        "deptno":"Biology",
+        "salary":500
+    }
+]
